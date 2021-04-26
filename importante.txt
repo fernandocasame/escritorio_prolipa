@@ -1,0 +1,744 @@
+using MySql.Data.MySqlClient;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Net;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Diagnostics;
+using System.Threading;
+using System.Data.SQLite;
+using Ionic.Zip;
+using System.IO;
+using WinSCP;
+
+namespace Prolipa
+{
+    public partial class login : Form
+    {
+        string rutaDirectorio;
+        int cont = 0;
+        int aux = 0;
+        int com = 0;
+        WebClient cliente;
+        List<string> listacuaderno = new List<string>();
+        List<string> listalibro = new List<string>();
+        List<string> listamaterial = new List<string>();
+        List<string> listaguia = new List<string>();
+
+
+        public login()
+        {
+            InitializeComponent();
+        }
+
+        private void Ingresar_Click_1(object sender, EventArgs e)
+        {
+            bool conexion = this.HayInternet();
+            if (conexion == true)
+            {
+                string usuario = this.usuario.Text;
+                string password = SHA1(MD5(this.password.Text));
+                string connectionString = "datasource=209.126.124.203;port=3306;username=appprolipa;password=appprolipa;database=prolipa2019;";
+                string query = "SELECT *  FROM `usuario` WHERE `username` LIKE '" + usuario + "' AND `password` LIKE '" + password + "' ";
+
+                MySqlConnection databaseConnection = new MySqlConnection(connectionString);
+                MySqlCommand commandDatabase = new MySqlCommand(query, databaseConnection);
+                commandDatabase.CommandTimeout = 60;
+                String idusuario;
+                try
+                {
+
+                    databaseConnection.Open();
+                    MySqlDataReader reader = commandDatabase.ExecuteReader();
+                    if (reader.HasRows)
+                    {
+                        while (reader.Read())
+                        {
+                            idusuario = reader["idusuario"].ToString();
+                            this.contendendor.Hide();
+                            this.descarga.Show();
+                            this.salir.Hide();
+                            Libros(idusuario);
+                            //Cuaderno(idusuario);
+                            //Material(idusuario);
+                            //Guia(idusuario);
+
+                            crearbaseregion(idusuario);
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("No se encontro nada");
+                    }
+
+                    databaseConnection.Close();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+            else
+            {
+                MessageBox.Show("No tiene una conexion a internet", "Mensaje informativo", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
+
+        }
+
+        async Task crearbaseregion(string idusuario)
+        {
+            await Task.Run(() =>
+            {
+                string connectionString = "datasource=209.126.124.203;port=3306;username=appprolipa;password=appprolipa;database=prolipa2019;";
+                string query = " CALL `periodofecha` ('" + idusuario + "');";
+                MySqlConnection databaseConnection = new MySqlConnection(connectionString);
+                MySqlCommand commandDatabase = new MySqlCommand(query, databaseConnection);
+                commandDatabase.CommandTimeout = 60;
+                MySqlDataReader reader;
+
+                try
+                {
+                    databaseConnection.Open();
+                    reader = commandDatabase.ExecuteReader();
+                    if (reader.HasRows)
+                    {
+                        while (reader.Read())
+                        {
+                            //BASE DE LIBRO CADUCIDAD
+                            //rutaDirectorio = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Prolipa\\php\\ext\\";
+                            //SQLiteConnection.CreateFile(rutaDirectorio + "libro.sqlite");
+                            //SQLiteConnection m_dbConnection = new SQLiteConnection("Data Source=" + rutaDirectorio + "libro.sqlite;Version=3;");
+
+                            //m_dbConnection.Open();
+                            //string sql = "CREATE TABLE libro(idlibro   INTEGER PRIMARY KEY AUTOINCREMENT,dllin DATE,dllfin DATE);";
+                            //SQLiteCommand command = new SQLiteCommand(sql, m_dbConnection);
+                            //command.ExecuteNonQuery();
+
+                            //sql = "INSERT INTO `libro` (idlibro,dllin,dllfin) VALUES (1,'2018-09-12','" + reader["fecha_final"].ToString() + "');";
+                            //command = new SQLiteCommand(sql, m_dbConnection);
+                            //command.ExecuteNonQuery();
+
+                            //sql = "CREATE TABLE controladorapp(id   INTEGER PRIMARY KEY AUTOINCREMENT, version VARCHAR(50),estado VARCHAR(50));";
+                            //command = new SQLiteCommand(sql, m_dbConnection);
+                            //command.ExecuteNonQuery();
+
+                            //m_dbConnection.Close();
+                        }
+                    }
+                    else
+                    {
+
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    Console.Write(ex);
+                }
+            });
+        }
+
+        async Task Libros(string idusuario)
+        {
+            string connectionString = "datasource=209.126.124.203;port=3306;username=appprolipa;password=appprolipa;database=prolipa2019;";
+            string query = " CALL `datoslibrosd` ('" + idusuario + "');";
+            MySqlConnection databaseConnection = new MySqlConnection(connectionString);
+            MySqlCommand commandDatabase = new MySqlCommand(query, databaseConnection);
+            commandDatabase.CommandTimeout = 60;
+            MySqlDataReader reader;
+            try
+            {
+                String carpeta = "";
+                databaseConnection.Open();
+                reader = commandDatabase.ExecuteReader();
+
+                if (reader.HasRows)
+                {
+                    while (reader.Read())
+                    {
+                        if (reader["ziplibro"].ToString() == null || reader["ziplibro"].ToString() == "")
+                        {
+
+                        }
+                        else
+                        {
+                            cont++;
+                            carpeta = reader["ziplibro"].ToString();
+                            listalibro.Add(carpeta);
+                            this.listBox1.Items.Add(carpeta);
+                            //Form1 w = new Form1();
+                            //Thread thread = new Thread(w.descargaLibro);
+                            //thread.Start("matematica6");
+                        }
+                        var progress = new Progress<ProgressReport>();
+                        progress.ProgressChanged += (o, report) =>
+                        {
+                            this.progressBar1.Value = report.PorcentComplete;
+                            this.progressBar1.Update();
+                        };
+                        await descargaLibro(listalibro, progress);
+                    }
+                }
+                else
+                {
+
+                }
+
+            }
+            catch (Exception ex)
+            {
+                Console.Write(ex);
+
+            }
+        }
+
+        void Cuaderno(string idusuario)
+        {
+            string connectionString = "datasource=209.126.124.203;port=3306;username=appprolipa;password=appprolipa;database=prolipa2019;";
+            string query = " CALL `datoscuadernosd` ('" + idusuario + "');";
+            MySqlConnection databaseConnection = new MySqlConnection(connectionString);
+            MySqlCommand commandDatabase = new MySqlCommand(query, databaseConnection);
+            commandDatabase.CommandTimeout = 60;
+            MySqlDataReader reader;
+
+            try
+            {
+                String carpeta = "";
+                databaseConnection.Open();
+                reader = commandDatabase.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    while (reader.Read())
+                    {
+                        if (reader["zipcuaderno"].ToString() == null || reader["zipcuaderno"].ToString() == "")
+                        {
+
+                        }
+                        else
+                        {
+                            cont++;
+                            carpeta = reader["zipcuaderno"].ToString();
+                            listacuaderno.Add(carpeta);
+                            this.listBox1.Items.Add(carpeta);
+                            descargacuaderno(carpeta);
+                        }
+                    }
+                }
+                else
+                {
+
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.Write(ex);
+
+            }
+        }
+
+        void Material(string idusuario)
+        {
+            string connectionString = "datasource=209.126.124.203;port=3306;username=appprolipa;password=appprolipa;database=prolipa2019;";
+            string query = " CALL `datosmateriald` ('" + idusuario + "');";
+            MySqlConnection databaseConnection = new MySqlConnection(connectionString);
+            MySqlCommand commandDatabase = new MySqlCommand(query, databaseConnection);
+            commandDatabase.CommandTimeout = 60;
+            MySqlDataReader reader;
+
+            try
+            {
+                String carpeta = "";
+                databaseConnection.Open();
+                reader = commandDatabase.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    while (reader.Read())
+                    {
+                        if (reader["zipmaterial"].ToString() == null || reader["zipmaterial"].ToString() == "")
+                        {
+
+                        }
+                        else
+                        {
+                            cont++;
+                            carpeta = reader["zipmaterila"].ToString();
+                            listamaterial.Add(carpeta);
+                            this.listBox1.Items.Add(carpeta);
+                            descargamaterial(carpeta);
+                        }
+                    }
+                }
+                else
+                {
+
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.Write(ex);
+
+            }
+        }
+
+        void Guia(string idusuario)
+        {
+            string connectionString = "datasource=209.126.124.203;port=3306;username=appprolipa;password=appprolipa;database=prolipa2019;";
+            string query = " CALL `datosguiasd` ('" + idusuario + "');";
+            MySqlConnection databaseConnection = new MySqlConnection(connectionString);
+            MySqlCommand commandDatabase = new MySqlCommand(query, databaseConnection);
+            commandDatabase.CommandTimeout = 60;
+            MySqlDataReader reader;
+
+            try
+            {
+                String carpeta = "";
+                databaseConnection.Open();
+                reader = commandDatabase.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    while (reader.Read())
+                    {
+                        if (reader["zipguia"].ToString() == null || reader["zipguia"].ToString() == "")
+                        {
+
+                        }
+                        else
+                        {
+                            cont++;
+                            carpeta = reader["zipguia"].ToString();
+                            listaguia.Add(carpeta);
+                            this.listBox1.Items.Add(carpeta);
+                            descargaguia(carpeta);
+                        }
+                    }
+                }
+                else
+                {
+
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.Write(ex);
+
+            }
+        }
+
+        public void dfj(string carpeta)
+        {
+            this.status.Text = "Sincronizando " + carpeta.ToString() + "...";
+        }
+
+        Task descargaLibro(List<string> listalibro, IProgress<ProgressReport> progress)
+        {
+            int index = 1;
+            int totalprocecso = listalibro.Count;
+            var pogressReport = new ProgressReport();
+            return Task.Run(() => {
+            for(int i=0; i<totalprocecso; i++)
+            {
+            int result = 0;
+            WinSCP.Session session = null;
+            string localPath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Prolipa\\www\\Libro\\"+ listalibro[i];
+            string remoteFilePath = listalibro[i];
+            SessionOptions sessionOptions = new SessionOptions
+            {
+                Protocol = Protocol.Ftp,
+                HostName = "209.126.124.203",
+                UserName = "jreyes",
+                Password = "jreyes",
+            };
+            try
+            {
+                using (session = new Session())
+                {
+                    session.ReconnectTime = new TimeSpan(0, 0, 30);
+                    session.Open(sessionOptions);
+                    TransferOptions transferOptions = new TransferOptions();
+                    transferOptions.TransferMode = TransferMode.Binary;
+                    transferOptions.ResumeSupport.State = TransferResumeSupportState.Smart;
+                    transferOptions.ResumeSupport.Threshold = 1000;
+                    TransferOperationResult transferResult = null;
+                Retry:
+                    try
+                    {
+                        transferResult = session.GetFiles(remoteFilePath, localPath, false, transferOptions);
+                        transferResult.Check();
+                        foreach (TransferEventArgs transfer in transferResult.Transfers)
+                        {
+                            Console.WriteLine("Download of {0} succeeded", transfer.FileName);
+                        }
+                        result = 0;
+                    }
+                    catch (Exception e)
+                    {
+                        Console.WriteLine("Error: {0}", e);
+                        goto Retry;
+                    }
+                }
+
+            }
+            finally
+            {
+                if (session != null)
+                {
+                    session.Dispose();
+                }
+            }
+                    pogressReport.PorcentComplete = index++ * 100 / totalprocecso;
+                    progress.Report(pogressReport);
+            }
+
+            });
+        }
+
+        void descargacuaderno(String carpeta)
+        {
+            try
+            {
+                dfj(carpeta);
+                cliente = new WebClient();
+                //cliente.DownloadFileCompleted += new AsyncCompletedEventHandler(CompletedAsync);
+                rutaDirectorio = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Prolipa\\www\\Cuaderno\\" + carpeta + ".zip";
+                cliente.DownloadProgressChanged += new DownloadProgressChangedEventHandler(ProgressChanged);
+                cliente.DownloadFileAsync(new Uri("https://prolipadigital.com.ec/PlataformaProlipa/upload/zipcuadernos/" + carpeta + ".zip"), rutaDirectorio);
+            }
+            catch (Exception ex)
+            {
+                Console.Write(ex);
+
+            }
+        }
+
+        void descargamaterial(String carpeta)
+        {
+            try
+            {
+                dfj(carpeta);
+                cliente = new WebClient();
+                //cliente.DownloadFileCompleted += new AsyncCompletedEventHandler(CompletedAsync);
+                rutaDirectorio = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Prolipa\\www\\Material\\" + carpeta + ".zip";
+                cliente.DownloadProgressChanged += new DownloadProgressChangedEventHandler(ProgressChanged);
+                cliente.DownloadFileAsync(new Uri("https://prolipadigital.com.ec/PlataformaProlipa/upload/zipmateriales/" + carpeta + ".zip"), rutaDirectorio);
+            }
+            catch (Exception ex)
+            {
+                Console.Write(ex);
+
+            }
+        }
+
+        void descargaguia(String carpeta)
+        {
+            try
+            {
+                dfj(carpeta);
+                cliente = new WebClient();
+                //cliente.DownloadFileCompleted += new AsyncCompletedEventHandler(CompletedAsync);
+                rutaDirectorio = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Prolipa\\www\\Guia\\" + carpeta + ".zip";
+                cliente.DownloadProgressChanged += new DownloadProgressChangedEventHandler(ProgressChanged);
+                cliente.DownloadFileAsync(new Uri("https://prolipadigital.com.ec/PlataformaProlipa/upload/zipguias/" + carpeta + ".zip"), rutaDirectorio);
+            }
+            catch (Exception ex)
+            {
+                Console.Write(ex);
+
+            }
+        }
+
+
+
+        void ProgressChanged(object sender, DownloadProgressChangedEventArgs e)
+        {
+            this.progressBar1.Value = e.ProgressPercentage;
+            this.status.Text = "Descargando..." + aux + " de " + cont;
+        }
+
+        async Task CompletedAsync(object sender, AsyncCompletedEventArgs e)
+        {
+           
+                var progress = new Progress<ProgressReport>();
+                progress.ProgressChanged += (o, report) =>
+                {
+                    this.progressBar1.Value = report.PorcentComplete;
+                    this.progressBar1.Update();
+                };
+                //await descomprimirLibros(listalibro, progress);
+                await descomprimirCuadernos(listacuaderno ,progress);
+                descomprimirMateriales(listamaterial);
+                descomprimirGuias(listaguia);
+
+                this.status.Text = "Sincronizado...";
+                this.salir.Show();
+        }
+
+         Task descomprimirLibros (List<string> listalibro, IProgress<ProgressReport> progress)
+        {
+            int index = 1;
+            int totalprocecso = listalibro.Count;
+            var pogressReport = new ProgressReport();
+            return Task.Run(() => {
+                foreach (string read in listalibro)
+            {
+                //Descomprimir
+                string rutaDirectorio = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+                string zipToUnpack = rutaDirectorio + "\\Prolipa\\www\\Libro\\" + read + ".zip";
+                string unpackDirectory = rutaDirectorio + "\\Prolipa\\www\\Libro\\";
+                using (ZipFile zip1 = ZipFile.Read(zipToUnpack))
+                {
+                    // here, we extract every entry, but we could extract conditionally
+                    // based on entry name, size, date, checkbox status, etc.  
+                    foreach (ZipEntry e in zip1)
+                    {
+                        e.Extract(unpackDirectory, ExtractExistingFileAction.OverwriteSilently);
+                    }
+                }
+                File.Delete(zipToUnpack);
+                    com++;
+                    comprobarcierreapp(com);
+                }
+                pogressReport.PorcentComplete = index++ * 100 / totalprocecso;
+                progress.Report(pogressReport);
+
+
+            });
+        }
+
+         Task descomprimirCuadernos(List<string> listacuaderno, IProgress<ProgressReport> progress)
+        {
+            int index = 1;
+            int totalprocecso = listacuaderno.Count;
+            var pogressReport = new ProgressReport();
+            return Task.Run(() => {
+                foreach (string read in listacuaderno)
+            {
+                //Descomprimir
+                string rutaDirectorio = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+                string zipToUnpack = rutaDirectorio + "\\Prolipa\\www\\Cuaderno\\" + read + ".zip";
+                string unpackDirectory = rutaDirectorio + "\\Prolipa\\www\\Cuaderno\\";
+                using (ZipFile zip1 = ZipFile.Read(zipToUnpack))
+                {
+                    // here, we extract every entry, but we could extract conditionally
+                    // based on entry name, size, date, checkbox status, etc.  
+                    foreach (ZipEntry e in zip1)
+                    {
+                        e.Extract(unpackDirectory, ExtractExistingFileAction.OverwriteSilently);
+                    }
+                }
+                File.Delete(zipToUnpack);
+                    com++;
+                    comprobarcierreapp(com);
+                    pogressReport.PorcentComplete = index++ * 100 / totalprocecso;
+                    progress.Report(pogressReport);
+                }
+
+            });
+
+        }
+
+         async Task descomprimirMateriales(List<string> listamaterial)
+        {
+            await Task.Run(() => {
+                foreach (string read in listamaterial)
+                {
+                    //Descomprimir
+                    string rutaDirectorio = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+                    string zipToUnpack = rutaDirectorio + "\\Prolipa\\www\\Material\\" + read + ".zip";
+                    string unpackDirectory = rutaDirectorio + "\\Prolipa\\www\\Material\\";
+                    using (ZipFile zip1 = ZipFile.Read(zipToUnpack))
+                    {
+                        // here, we extract every entry, but we could extract conditionally
+                        // based on entry name, size, date, checkbox status, etc.  
+                        foreach (ZipEntry e in zip1)
+                        {
+                            e.Extract(unpackDirectory, ExtractExistingFileAction.OverwriteSilently);
+                        }
+                    }
+                    File.Delete(zipToUnpack);
+                    com++;
+                    comprobarcierreapp(com);
+                }
+            });
+
+        }
+
+         async Task descomprimirGuias(List<string> listaguia)
+        {
+            await Task.Run(() => {
+                foreach (string read in listaguia)
+                {
+                    //Descomprimir
+                    string rutaDirectorio = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
+                    string zipToUnpack = rutaDirectorio + "\\Prolipa\\www\\Guia\\" + read + ".zip";
+                    string unpackDirectory = rutaDirectorio + "\\Prolipa\\www\\Guia\\";
+                    using (ZipFile zip1 = ZipFile.Read(zipToUnpack))
+                    {
+                        // here, we extract every entry, but we could extract conditionally
+                        // based on entry name, size, date, checkbox status, etc.  
+                        foreach (ZipEntry e in zip1)
+                        {
+                            e.Extract(unpackDirectory, ExtractExistingFileAction.OverwriteSilently);
+                        }
+                    }
+                    File.Delete(zipToUnpack);
+                    com++;
+                    comprobarcierreapp(com);
+                }
+            });
+        }
+
+        public void comprobarcierreapp(int com)
+        {
+            if (com == cont)
+            {
+                Application.Exit();
+            }
+        }
+
+        public string MD5(string text)
+        {
+            MD5 md5 = new MD5CryptoServiceProvider();
+            md5.ComputeHash(ASCIIEncoding.ASCII.GetBytes(text));
+            byte[] result = md5.Hash;
+            StringBuilder strBuilder = new StringBuilder();
+            for (int i = 0; i < result.Length; i++)
+            {
+                strBuilder.Append(result[i].ToString("x2"));
+            }
+            return strBuilder.ToString();
+        }
+
+        private string SHA1(string cadena)
+        {
+            UTF8Encoding enc = new UTF8Encoding();
+            byte[] data = enc.GetBytes(cadena);
+            byte[] result;
+            SHA1CryptoServiceProvider sha = new SHA1CryptoServiceProvider();
+            result = sha.ComputeHash(data);
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < result.Length; i++)
+            {
+                if (result[i] < 16)
+                {
+                    sb.Append("0");
+                }
+                sb.Append(result[i].ToString("x"));
+            }
+            return sb.ToString().ToUpper();
+        }
+
+        private void progressBar1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BunifuThinButton21_Click(object sender, EventArgs e)
+        {
+            //abrirForm(new menu());
+            this.Hide();
+        }
+
+        public void abrirForm(object formhijo)
+        {
+            if (this.descarga.Controls.Count > 0)
+            {
+                this.descarga.Controls.RemoveAt(0);
+                Form fh = formhijo as Form;
+                fh.TopLevel = false;
+                fh.Dock = DockStyle.Fill;
+                this.descarga.Controls.Add(fh);
+                this.descarga.Tag = fh;
+                this.listBox1.Hide();
+                this.label1.Hide();
+                this.progressBar1.Hide();
+                this.status.Hide();
+                this.salir.Hide();
+                fh.Show();
+            }
+        }
+
+        private void Button2_Click_1(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        public void abrirForm1(object formhijo)
+        {
+            if (this.Controls.Count > 0)
+            {
+                this.contendendor.Controls.RemoveAt(0);
+                Form fh = formhijo as Form;
+                fh.TopLevel = false;
+                fh.Dock = DockStyle.Fill;
+                this.contendendor.Controls.Add(fh);
+                this.contendendor.Tag = fh;
+                this.listBox1.Hide();
+                this.label1.Hide();
+                this.panel1.Hide();
+                fh.Show();
+            }
+        }
+        private bool HayInternet()
+        {
+            try
+            {
+                System.Net.IPHostEntry host = System.Net.Dns.GetHostEntry("www.google.com");
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+        private void PictureBox4_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        const int WM_SYSCOMMAND = 0x112;
+        const int MOUSE_MOVE = 0xF012;
+
+        // Declaraciones del API 
+        [System.Runtime.InteropServices.DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
+        private extern static void ReleaseCapture();
+        // 
+        [System.Runtime.InteropServices.DllImport("user32.DLL", EntryPoint = "SendMessage")]
+        private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
+        // 
+        // función privada usada para mover el formulario actual 
+
+        private void moverForm()
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, WM_SYSCOMMAND, MOUSE_MOVE, 0);
+        }
+
+        private void loading_MouseMove(object sender, System.Windows.Forms.MouseEventArgs e)
+        {
+            moverForm();
+        }
+
+        private void PictureBox3_Click(object sender, EventArgs e)
+        {
+            rutaDirectorio = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Prolipa\\Prolipa.exe";
+            Process.Start(rutaDirectorio);
+        }
+
+        private void PictureBox4_Click_1(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void PictureBox3_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+    }
+}

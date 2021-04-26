@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://prolipadigital.com.ec/|C:\Users\cdarf\Desktop\public\|C:\Users\Fernando\Desktop\public\|C:\Users\cdarf\Desktop\|C:\Users\Fernando\Desktop\</PublishUrlHistory>
+    <InstallUrlHistory>https://prolipadigital.com.ec/Actualizacion/app-prolipa/|https://prolipadigital.com.ec/Actualizacion/pruebas/|https://prolipadigital.com.ec/Actualizacion/prubas/|https://prolipadigital.com.ec/Actualizacion/app-/|http://prolipadigital.com.ec/Actualizacion/app-prolipa/</InstallUrlHistory>
+    <SupportUrlHistory>https://prolipadigital.com.ec/</SupportUrlHistory>
+    <UpdateUrlHistory>https://prolipadigital.com.ec/Actualizacion/pruebas/|https://prolipadigital.com.ec/Actualizacion/app-prolipa/|https://prolipadigital.com.ec/Actualizacion/prubas/|http://prolipadigital.com.ec/Actualizacion/app-prolipa/|https://prolipadigital.com.ec/Actualizacion/appprolipa/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>https://prolipadigital.com.ec/</ErrorReportUrlHistory>
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Users\Public\InstaladorProlipa\;C:\Users\Public\Prolipa\;C:\Users\Public\Linux\</ReferencePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DebugSecurityZoneURL>https://prolipadigital.com.ec/Actualizacion/pruebas/</DebugSecurityZoneURL>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+</Project>

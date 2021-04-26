@@ -1,0 +1,141 @@
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.csprojAssemblyReference.cache
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.error.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.login.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.Properties.Resources.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.vistas.Principal.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.success.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.csproj.GenerateResource.cache
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.exe
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.config
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.manifest
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.application
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.CodeAnalysisLog.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.lastcodeanalysissucceeded
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Animator.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\AWSSDK.Core.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\DotNetZip.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\MaterialSkin.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\nunit.framework.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\RestSharp.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\AWSSDK.Core.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\AWSSDK.Core.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\DotNetZip.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\DotNetZip.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\nunit.framework.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\nunit.framework.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Release\RestSharp.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.TrustInfo.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.exe.manifest
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.application
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.csproj.CopyComplete
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.vistas.Inicio.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.csprojAssemblyReference.cache
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.error.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.vistas.Inicio.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.login.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.Properties.Resources.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.vistas.Principal.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.success.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.csproj.GenerateResource.cache
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.exe
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.config
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.manifest
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.application
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.CodeAnalysisLog.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.lastcodeanalysissucceeded
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Animator.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\AWSSDK.Core.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\DotNetZip.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\MaterialSkin.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\nunit.framework.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\RestSharp.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\AWSSDK.Core.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\AWSSDK.Core.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\DotNetZip.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\DotNetZip.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\nunit.framework.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\nunit.framework.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\RestSharp.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.TrustInfo.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.exe.manifest
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.application
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.csproj.CopyComplete
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\CefSharp.Core.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\CefSharp.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\CefSharp.WinForms.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\CefSharp.WinForms.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\CefSharp.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\CefSharp.Core.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Transitions.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Release\Transitions.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.config
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.manifest
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.application
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.CodeAnalysisLog.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Prolipa.exe.lastcodeanalysissucceeded
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Animator.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\AWSSDK.Core.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\DotNetZip.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\nunit.framework.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Transitions.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\AWSSDK.Core.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\AWSSDK.Core.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\DotNetZip.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\DotNetZip.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\nunit.framework.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\nunit.framework.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\Transitions.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.error.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.vistas.Inicio.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.login.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.Properties.Resources.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.vistas.Principal.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.success.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.TrustInfo.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.exe.manifest
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.application
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.csproj.CopyComplete
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.exe
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Release\Prolipa.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Release\System.IO.Compression.ZipFile.dll

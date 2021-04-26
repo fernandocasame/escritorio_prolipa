@@ -1,0 +1,300 @@
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\cef.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\cef_100_percent.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\cef_200_percent.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\cef_extensions.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\chrome_elf.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\d3dcompiler_47.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\devtools_resources.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\icudtl.dat
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\libcef.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\libEGL.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\libGLESv2.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\am.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\ar.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\bg.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\bn.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\ca.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\cs.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\da.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\de.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\el.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\en-GB.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\en-US.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\es-419.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\es.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\et.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\fa.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\fi.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\fil.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\fr.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\gu.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\he.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\hi.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\hr.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\hu.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\id.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\it.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\ja.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\kn.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\ko.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\lt.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\lv.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\ml.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\mr.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\ms.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\nb.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\nl.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\pl.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\pt-BR.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\pt-PT.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\ro.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\ru.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\sk.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\sl.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\sr.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\sv.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\sw.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\ta.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\te.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\th.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\tr.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\uk.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\vi.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\zh-CN.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\locales\zh-TW.pak
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\natives_blob.bin
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\README.txt
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\snapshot_blob.bin
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\swiftshader\libEGL.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\swiftshader\libGLESv2.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\v8_context_snapshot.bin
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.Core.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.XML
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.WinForms.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.WinForms.XML
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.config
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.manifest
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.application
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.CodeAnalysisLog.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.lastcodeanalysissucceeded
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Animator.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\AWSSDK.Core.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\DotNetZip.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\MaterialSkin.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\nunit.framework.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\RestSharp.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\AWSSDK.Core.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\AWSSDK.Core.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\DotNetZip.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\DotNetZip.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\nunit.framework.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\nunit.framework.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\RestSharp.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.error.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.login.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.Properties.Resources.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.vistas.Principal.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.success.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.csproj.GenerateResource.cache
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.TrustInfo.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.exe.manifest
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.application
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.csproj.CopyComplete
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.exe
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.csprojAssemblyReference.cache
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.vistas.Inicio.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.csprojAssemblyReference.cache
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.error.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.vistas.Inicio.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.login.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.Properties.Resources.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.vistas.Principal.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.success.resources
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.csproj.GenerateResource.cache
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.exe
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.config
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.manifest
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.application
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.CodeAnalysisLog.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.lastcodeanalysissucceeded
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\Animator.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\AWSSDK.Core.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\DotNetZip.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\MaterialSkin.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\nunit.framework.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\RestSharp.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.WinForms.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\AWSSDK.Core.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\AWSSDK.Core.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\DotNetZip.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\DotNetZip.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\nunit.framework.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\nunit.framework.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\RestSharp.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.TrustInfo.xml
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.exe.manifest
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.application
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.csproj.CopyComplete
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\chrome_elf.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\README.txt
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\swiftshader\libEGL.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\swiftshader\libGLESv2.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\v8_context_snapshot.bin
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.Core.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.WinForms.pdb
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\cef.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\cef_100_percent.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\cef_200_percent.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\cef_extensions.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\d3dcompiler_47.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\devtools_resources.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\icudtl.dat
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\libcef.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\libEGL.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\libGLESv2.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\am.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\ar.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\bg.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\bn.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\ca.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\cs.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\da.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\de.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\el.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\en-GB.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\en-US.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\es-419.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\es.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\et.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\fa.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\fi.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\fil.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\fr.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\gu.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\he.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\hi.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\hr.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\hu.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\id.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\it.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\ja.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\kn.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\ko.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\lt.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\lv.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\ml.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\mr.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\ms.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\nb.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\nl.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\pl.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\pt-BR.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\pt-PT.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\ro.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\ru.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\sk.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\sl.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\sr.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\sv.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\sw.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\ta.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\te.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\th.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\tr.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\uk.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\vi.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\zh-CN.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\locales\zh-TW.pak
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\natives_blob.bin
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\snapshot_blob.bin
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Fernando\Downloads\ProlipaFF (1)\ProlipaFF\Prolipa\bin\x86\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.error.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.vistas.Inicio.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.login.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.Properties.Resources.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.vistas.Principal.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.success.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.exe
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.config
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.manifest
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.application
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.CodeAnalysisLog.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Prolipa.exe.lastcodeanalysissucceeded
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Animator.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\AWSSDK.Core.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\DotNetZip.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\nunit.framework.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Transitions.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\AWSSDK.Core.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\AWSSDK.Core.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\DotNetZip.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\DotNetZip.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\nunit.framework.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\nunit.framework.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\x86\Debug\Transitions.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.TrustInfo.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.exe.manifest
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.application
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\x86\Debug\Prolipa.csproj.CopyComplete

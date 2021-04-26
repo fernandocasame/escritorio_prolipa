@@ -1,0 +1,367 @@
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/Prolipa.exe.config
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/Prolipa.exe
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/Prolipa.pdb
+C:/Users/Fernando/Documents/Prolipa/Prolipa/obj/Debug/Prolipa.csprojAssemblyReference.cache
+C:/Users/Fernando/Documents/Prolipa/Prolipa/obj/Debug/Prolipa.loading.resources
+C:/Users/Fernando/Documents/Prolipa/Prolipa/obj/Debug/Prolipa.Properties.Resources.resources
+C:/Users/Fernando/Documents/Prolipa/Prolipa/obj/Debug/Prolipa.csproj.GenerateResource.cache
+C:/Users/Fernando/Documents/Prolipa/Prolipa/obj/Debug/Prolipa.csproj.CoreCompileInputs.cache
+C:/Users/Fernando/Documents/Prolipa/Prolipa/obj/Debug/Prolipa.exe
+C:/Users/Fernando/Documents/Prolipa/Prolipa/obj/Debug/Prolipa.pdb
+C:/Users/Fernando/Documents/Prolipa/Prolipa/obj/Debug/Prolipa.inicio.resources
+C:/Users/Fernando/Documents/Prolipa/Prolipa/obj/Debug/Prolipa.menu.resources
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/Bunifu_UI_v1.5.3.dll
+C:/Users/Fernando/Documents/Prolipa/Prolipa/obj/Debug/Prolipa.csproj.CopyComplete
+C:/Users/Fernando/Documents/Prolipa/Prolipa/obj/Debug/Prolipa.login.resources
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/Google.Protobuf.dll
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/MySql.Data.dll
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/Google.Protobuf.xml
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/MySql.Data.xml
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/EntityFramework.dll
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/EntityFramework.SqlServer.dll
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/System.Data.SQLite.dll
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/System.Data.SQLite.EF6.dll
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/System.Data.SQLite.Linq.dll
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/EntityFramework.xml
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/EntityFramework.SqlServer.xml
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/System.Data.SQLite.xml
+C:/Users/Fernando/Documents/Prolipa/Prolipa/bin/Debug/System.Data.SQLite.dll.config
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/Prolipa.exe.config
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/Prolipa.exe
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/Prolipa.pdb
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/EntityFramework.dll
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/EntityFramework.SqlServer.dll
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/Google.Protobuf.dll
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/MySql.Data.dll
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/System.Data.SQLite.dll
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/System.Data.SQLite.EF6.dll
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/System.Data.SQLite.Linq.dll
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/EntityFramework.xml
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/EntityFramework.SqlServer.xml
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/Google.Protobuf.xml
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/MySql.Data.xml
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/System.Data.SQLite.xml
+/home/fernando/Documentos/Prolipa/Prolipa/bin/Debug/System.Data.SQLite.dll.config
+/home/fernando/Documentos/Prolipa/Prolipa/obj/Debug/Prolipa.csprojAssemblyReference.cache
+/home/fernando/Documentos/Prolipa/Prolipa/obj/Debug/Prolipa.inicio.resources
+/home/fernando/Documentos/Prolipa/Prolipa/obj/Debug/Prolipa.loading.resources
+/home/fernando/Documentos/Prolipa/Prolipa/obj/Debug/Prolipa.login.resources
+/home/fernando/Documentos/Prolipa/Prolipa/obj/Debug/Prolipa.menu.resources
+/home/fernando/Documentos/Prolipa/Prolipa/obj/Debug/Prolipa.Properties.Resources.resources
+/home/fernando/Documentos/Prolipa/Prolipa/obj/Debug/Prolipa.csproj.GenerateResource.cache
+/home/fernando/Documentos/Prolipa/Prolipa/obj/Debug/Prolipa.csproj.CoreCompileInputs.cache
+/home/fernando/Documentos/Prolipa/Prolipa/obj/Debug/Prolipa.csproj.CopyComplete
+/home/fernando/Documentos/Prolipa/Prolipa/obj/Debug/Prolipa.exe
+/home/fernando/Documentos/Prolipa/Prolipa/obj/Debug/Prolipa.pdb
+Z:\Prolipa\Prolipa\bin\Debug\Prolipa.exe.config
+Z:\Prolipa\Prolipa\bin\Debug\Prolipa.exe
+Z:\Prolipa\Prolipa\bin\Debug\Prolipa.pdb
+Z:\Prolipa\Prolipa\bin\Debug\EntityFramework.dll
+Z:\Prolipa\Prolipa\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Prolipa\Prolipa\bin\Debug\Google.Protobuf.dll
+Z:\Prolipa\Prolipa\bin\Debug\MySql.Data.dll
+Z:\Prolipa\Prolipa\bin\Debug\System.Data.SQLite.dll
+Z:\Prolipa\Prolipa\bin\Debug\System.Data.SQLite.EF6.dll
+Z:\Prolipa\Prolipa\bin\Debug\System.Data.SQLite.Linq.dll
+Z:\Prolipa\Prolipa\bin\Debug\EntityFramework.xml
+Z:\Prolipa\Prolipa\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Prolipa\Prolipa\bin\Debug\Google.Protobuf.xml
+Z:\Prolipa\Prolipa\bin\Debug\MySql.Data.xml
+Z:\Prolipa\Prolipa\bin\Debug\System.Data.SQLite.xml
+Z:\Prolipa\Prolipa\bin\Debug\System.Data.SQLite.dll.config
+Z:\Prolipa\Prolipa\obj\Debug\Prolipa.csprojAssemblyReference.cache
+Z:\Prolipa\Prolipa\obj\Debug\Prolipa.inicio.resources
+Z:\Prolipa\Prolipa\obj\Debug\Prolipa.loading.resources
+Z:\Prolipa\Prolipa\obj\Debug\Prolipa.login.resources
+Z:\Prolipa\Prolipa\obj\Debug\Prolipa.menu.resources
+Z:\Prolipa\Prolipa\obj\Debug\Prolipa.Properties.Resources.resources
+Z:\Prolipa\Prolipa\obj\Debug\Prolipa.csproj.GenerateResource.cache
+Z:\Prolipa\Prolipa\obj\Debug\Prolipa.csproj.CoreCompileInputs.cache
+Z:\Prolipa\Prolipa\obj\Debug\Prolipa.csproj.CopyComplete
+Z:\Prolipa\Prolipa\obj\Debug\Prolipa.exe
+Z:\Prolipa\Prolipa\obj\Debug\Prolipa.pdb
+Z:\Prolipa\Prolipa\bin\Debug\MaterialDesignColors.dll
+Z:\Prolipa\Prolipa\bin\Debug\MaterialDesignThemes.Wpf.dll
+Z:\Prolipa\Prolipa\bin\Debug\MaterialDesignColors.pdb
+Z:\Prolipa\Prolipa\bin\Debug\MaterialDesignThemes.Wpf.pdb
+Z:\Prolipa\Prolipa\bin\Debug\MaterialDesignThemes.Wpf.xml
+Z:\Prolipa\Prolipa\bin\Debug\DotNetZip.dll
+Z:\Prolipa\Prolipa\bin\Debug\System.IO.Compression.ZipFile.dll
+Z:\Prolipa\Prolipa\bin\Debug\DotNetZip.pdb
+Z:\Prolipa\Prolipa\bin\Debug\DotNetZip.xml
+Z:\Prolipa\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.dll
+Z:\Prolipa\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.pdb
+Z:\Prolipa\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.xml
+Z:\Prolipa\Prolipa\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\Prolipa.exe.config
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\Prolipa.exe
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\Prolipa.pdb
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\DotNetZip.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\MaterialDesignColors.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\DotNetZip.pdb
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\DotNetZip.xml
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.inicio.resources
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.loading.resources
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.login.resources
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.menu.resources
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.exe
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.pdb
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\EntityFramework.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\Google.Protobuf.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\MySql.Data.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\System.Data.SQLite.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\EntityFramework.xml
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\Google.Protobuf.xml
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\MySql.Data.xml
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\System.Data.SQLite.xml
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\Prolipa.exe.manifest
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\bin\Debug\Prolipa.application
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.TrustInfo.xml
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.exe.manifest
+C:\Users\Fernando\Desktop\Prolipa\Prolipa\obj\Debug\Prolipa.application
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.config
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.manifest
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Prolipa.application
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Prolipa.pdb
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.csprojAssemblyReference.cache
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.inicio.resources
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.loading.resources
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.login.resources
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.menu.resources
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.Properties.Resources.resources
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.GenerateResource.cache
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.CoreCompileInputs.cache
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.TrustInfo.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.exe.manifest
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.application
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.exe
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.pdb
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\MongoDB.Bson.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\MongoDB.Driver.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\MongoDB.Bson.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\MongoDB.Driver.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.CopyComplete
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\DotNetZip.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\EntityFramework.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\EntityFramework.SqlServer.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Google.Protobuf.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\MaterialDesignColors.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Microsoft.Data.Edm.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Microsoft.Data.OData.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Microsoft.Data.Services.Client.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Microsoft.Data.Services.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\MySql.Data.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\System.Data.SQLite.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\System.Spatial.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\DotNetZip.pdb
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\DotNetZip.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\EntityFramework.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\EntityFramework.SqlServer.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Google.Protobuf.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\MaterialDesignColors.pdb
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Microsoft.Data.Edm.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Microsoft.Data.OData.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Microsoft.Data.Services.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\Microsoft.Data.Services.Client.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\MySql.Data.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\System.Data.SQLite.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\System.Data.SQLite.dll.config
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\System.Spatial.xml
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\de\Microsoft.Data.Services.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\es\Microsoft.Data.Services.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\fr\Microsoft.Data.Services.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\it\Microsoft.Data.Services.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ja\Microsoft.Data.Services.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ko\Microsoft.Data.Services.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ru\Microsoft.Data.Services.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\zh-Hans\Microsoft.Data.Services.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\zh-Hant\Microsoft.Data.Services.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\de\System.Spatial.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\es\System.Spatial.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\fr\System.Spatial.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\it\System.Spatial.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ja\System.Spatial.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ko\System.Spatial.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ru\System.Spatial.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\ChilkatDotNet46.dll
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\WinSCP.exe
+E:\Respaldo\Respaldo win10\ProlipaFF\Prolipa\bin\Debug\WinSCPnet.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\DotNetZip.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\EntityFramework.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\DotNetZip.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\DotNetZip.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\EntityFramework.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.CopyComplete
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\nunit.framework.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\nunit.framework.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\nunit.framework.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.error.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.success.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\Animator.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.Properties.Resources.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.config
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.CodeAnalysisLog.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.lastcodeanalysissucceeded
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.exe
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.pdb
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.config
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.manifest
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\Prolipa.application
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\Prolipa.pdb
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.CodeAnalysisLog.xml
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.lastcodeanalysissucceeded
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\Animator.dll
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\DotNetZip.dll
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\EntityFramework.dll
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\MaterialSkin.dll
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\MySql.Data.dll
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\nunit.framework.dll
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\DotNetZip.pdb
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\DotNetZip.xml
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\EntityFramework.xml
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\nunit.framework.pdb
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\bin\Debug\nunit.framework.xml
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.error.resources
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.login.resources
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.success.resources
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.TrustInfo.xml
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.exe.manifest
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.application
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.CopyComplete
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.exe
+C:\Users\Fernando\Desktop\Respaldo\ProlipaFF\Prolipa\obj\Debug\Prolipa.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\AWSSDK.Core.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\Transitions.dll
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\AWSSDK.Core.xml
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\bin\Debug\Transitions.pdb
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.vistas.Inicio.resources
+C:\Users\Fernando\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.vistas.Principal.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.config
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.manifest
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.application
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.CodeAnalysisLog.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Prolipa.exe.lastcodeanalysissucceeded
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Animator.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\AWSSDK.Core.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\DotNetZip.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\EntityFramework.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\nunit.framework.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Transitions.dll
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\AWSSDK.Core.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\AWSSDK.Core.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\DotNetZip.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\DotNetZip.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\EntityFramework.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\nunit.framework.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\nunit.framework.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\bin\Debug\Transitions.pdb
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.csprojAssemblyReference.cache
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.error.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.vistas.Inicio.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.Properties.Resources.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.vistas.Principal.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.success.resources
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.GenerateResource.cache
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.CoreCompileInputs.cache
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.TrustInfo.xml
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.exe.manifest
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.application
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.csproj.CopyComplete
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.exe
+C:\Users\cdarf\Desktop\ProlipaFF\Prolipa\obj\Debug\Prolipa.pdb
